@@ -1,7 +1,9 @@
 # <div align="center">Hello</div>  
 <br/>  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mkozbial&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mkozbial&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 <!--
 **mkozbial/mkozbial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
